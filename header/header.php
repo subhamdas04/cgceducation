@@ -6,22 +6,22 @@
 
 	<script type="text/javascript">
 		function goHome(){
-			location.href = "http://localhost/cgceducation/";
+			location.href = "http://localhost/ghotalanews/";
 		}
-		function goNotices(){
-			location.href = "http://localhost/cgceducation/notices/";
+		function goSports(){
+			location.href = "http://localhost/ghotalanews/sports/";
 		}
-		function goAdmission(){
-			location.href = "http://localhost/cgceducation/admission/";
+		function goBollywood(){
+			location.href = "http://localhost/ghotalanews/bollywood/";
 		}
-		function goContact(){
-			location.href = "http://localhost/cgceducation/contact/";
+		function goNational(){
+			location.href = "http://localhost/ghotalanews/national/";
 		}
-		function goAbout(){
-			location.href = "http://localhost/cgceducation/about/";
+		function goInternationa(){
+			location.href = "http://localhost/ghotalanews/international/";
 		}
-		function goFAQ(){
-			location.href = "http://localhost/cgceducation/faq/";
+		function goOthers(){
+			location.href = "http://localhost/ghotalanews/others/";
 		}
 	</script>
 	
@@ -38,10 +38,10 @@
 			var pass = document.getElementById("password").value;
 			
 			if(user == "cgc" && pass == "123456"){
-				location.href ="http://localhost/cgceducation/dashboard/";
+				location.href ="http://localhost/ghotalanews/dashboard/";
 			
 			}else if(user == "subham" && pass == "123456"){
-				location.href ="http://localhost/cgceducation/dashboard/";
+				location.href ="http://localhost/ghotalanews/dashboard/";
 			}
 			else{
 				document.getElementById("alertBox").style.display="flex";
@@ -83,11 +83,11 @@
 
 	<div class="menu">
 		<button class="btn" onclick="goHome()">Home</button>
-		<button class="btn" onclick="goNotices()">Sports</button>
-		<button class="btn" onclick="goAdmission()">Bollywood</button>
-		<button class="btn" onclick="goContact()">National</button>
-		<button class="btn" onclick="goAbout()">International</button>
-		<button class="btn" onclick="goFAQ()">Others</button>
+		<button class="btn" onclick="goSports()">Sports</button>
+		<button class="btn" onclick="goBollywood()">Bollywood</button>
+		<button class="btn" onclick="goNational()">National</button>
+		<button class="btn" onclick="goInternationa()">International</button>
+		<button class="btn" onclick="goOthers()">Others</button>
 	</div>
 
 	<div class="loginoverdiv" id="loginoverdiv">
