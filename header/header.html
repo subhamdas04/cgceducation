@@ -30,24 +30,7 @@
 			document.getElementById("loginoverdiv").style.display="none";
 		}
 	</script>
-
-	<script>
-		var x = document.getElementById("login");
-		var y = document.getElementById("register");
-		var z = document.getElementById("btn");
-
-		function register() {
-			x.style.left = "-400px";
-			y.style.left = "50px";
-			z.style.left = "110px";
-		}
-		function login() {
-			x.style.left = "50px";
-			y.style.left = "450px";
-			z.style.left = "0";
-		}
-	</script>
-		
+	
 	<script type="text/javascript">
 		function loginFun(){
 			var user = document.getElementById("username").value;
@@ -87,7 +70,7 @@
 			<i class="fab fa-instagram" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i>
 		</div>
 		<div class="loginclick">
-			<button class="btn" onclick="showoverdiv()">Login</button>
+			<button class="loginbtn" onclick="showoverdiv()">Login</button>
 		</div>
 	</div>
 
@@ -145,6 +128,23 @@
 			</center>
 		 </div>
 	</div>
+
+	 <script>
+        var x = document.getElementById("login");
+        var y = document.getElementById("register");
+        var z = document.getElementById("btn");
+
+        function register() {
+            x.style.left = "-400px";
+            y.style.left = "50px";
+            z.style.left = "110px";
+        }
+        function login() {
+            x.style.left = "50px";
+            y.style.left = "450px";
+            z.style.left = "0";
+        }
+    </script>
 
 </body>
 </html>
