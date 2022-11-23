@@ -1,5 +1,5 @@
 <?php 
-include_once('http://localhost/cgceducation/header/header.php');
+include_once('http://localhost/ghotalanews/header/header.php');
  ?>
 
 <!DOCTYPE html>
@@ -13,5 +13,5 @@ include_once('http://localhost/cgceducation/header/header.php');
 </html>
 
 <?php 
-include_once('http://localhost/cgceducation/footer/footer.php');
+include_once('http://localhost/cgceducation/ghotalanews/footer.php');
  ?>
