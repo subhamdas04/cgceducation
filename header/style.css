@@ -1,4 +1,6 @@
-.main{
+*{
+    margin-left: 0;
+}.main{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -99,7 +101,7 @@
     display: flex;
     flex-direction: column;
     height: 100%;
-    width: 70px;
+    width: auto;
     position: relative;
     margin-left: 80%;
     font-size: 24px;
