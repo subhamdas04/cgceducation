@@ -1,5 +1,6 @@
 *{
     margin-left: 0;
+    margin-right: 0;
 }.main{
     display: flex;
     flex-direction: row;
@@ -74,8 +75,10 @@
     font-size: 20px;
 }
 .btn:hover{
-    background: red;
+    background: rgb(124, 236, 93);
     text-transform: uppercase;
+    color: #000;
+    font-weight: 600;
 }
 .topbar{
     display: flex;
@@ -122,6 +125,9 @@
 .loginbtn:hover{
     background: red;
     text-transform: uppercase;
+    background: rgb(124, 236, 93);
+    color: #000;
+    font-weight: 600;
 }
 .loginoverdiv{
     display: none;
@@ -168,8 +174,11 @@
     margin-top: 20px;
 }
 .btn22:hover{
-    background-color: red;
+    background: rgb(124, 236, 93);
     text-transform: uppercase;
+    border: 0px solid black;
+    color: #000;
+    font-weight: 600;
 }
 .form-box{
     width: 380px;
