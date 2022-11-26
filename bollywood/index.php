@@ -6,6 +6,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 <html>
 <head>
 	<title>Admission</title>
+	<link rel="stylesheet" href="../header/style.css">
 	<style type="text/css">
 		.admission{
 			display: flex;

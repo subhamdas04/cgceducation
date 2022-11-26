@@ -61,13 +61,10 @@
 	<div class="topbar">
 		<div class="follow">
 			Follow us on:
-			<i class="fab fa-youtube" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i>
-			
-			<i class="fab fa-facebook" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i>
-			
-			<i class="fab fa-twitter" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i>
-			
-			<i class="fab fa-instagram" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i>
+			<a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i></a>
+			<a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i></a>
+			<a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i></a>
+			<a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i></a>
 		</div>
 		<div class="loginclick">
 			<button class="loginbtn" onclick="showoverdiv()">Login</button>

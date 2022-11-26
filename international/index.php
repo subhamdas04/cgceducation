@@ -1,11 +1,11 @@
 <?php 
-include_once('http://localhost/cgceducation/header/header.php')
+include_once('http://localhost/ghotalanews/header/header.php');
  ?>
-
 <!DOCTYPE html>
 <html>
 <head>
 	<title>FAQ</title>
+	<link rel="stylesheet" href="../header/style.css">
 	<style type="text/css">
 		.QuestionsAndAnswers{
 			display: flex;
