@@ -6,6 +6,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 <html>
 <head>
 	<title>About</title>
+	<link rel="stylesheet" href="../header/style.css"> 
 </head>
 <body>
 	THIS IS ONE OF PRETIGEOUS INSTITUTE IN HAILAKANDI DISTRICT

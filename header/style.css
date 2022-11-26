@@ -18,8 +18,9 @@
     height: 100px;
     background-size: 100% 100%;
     animation: logoanime 3s 1;
+    border: 2px solid red;
     cursor: pointer;
-    background-image: url(logo.png);
+    background-image: url(../gallery/logo.png);
 }
 @keyframes logoanime{
     0%{
