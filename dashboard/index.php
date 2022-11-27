@@ -1,11 +1,13 @@
 <?php 
-include_once('http://localhost/cgceducation/header/header.php');
+include_once('http://localhost/ghotalanews/header/header.php');
  ?>
 
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Dashboard</title>
+	<link rel="stylesheet" href="../header/style.css">
+	<link rel="stylesheet" href="../footer/style.css">
 	<style type="text/css">
 		.over{
 			display: none;
@@ -105,5 +107,5 @@ include_once('http://localhost/cgceducation/header/header.php');
 
 
 <?php 
-include_once('http://localhost/cgceducation/footer/footer.php');
+include_once('http://localhost/ghotalanews/footer/footer.php');
  ?>
