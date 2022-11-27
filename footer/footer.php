@@ -28,7 +28,6 @@
   	 				<li><a href="#">shipping</a></li>
   	 				<li><a href="#">returns</a></li>
   	 				<li><a href="#">order status</a></li>
-  	 				<li><a href="#">payment options</a></li>
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">
@@ -43,10 +42,10 @@
   	 		<div class="footer-col">
   	 			<h4>follow us</h4>
   	 			<div class="social-links">
-  	 				<a href="#"><i class="fab fa-facebook-f"></i></a>
-  	 				<a href="#"><i class="fab fa-twitter"></i></a>
-  	 				<a href="#"><i class="fab fa-instagram"></i></a>
-  	 				<a href="#"><i class="fab fa-linkedin-in"></i></a>
+					<a href="https://www.youtube.com/channel/UCGxc7wxVxUpkrtKOZ7zwg6A" target="_blank"><i class="fab fa-youtube"></i></a>
+				   	<a href="https://www.facebook.com/subham.das.9440234/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+				   	<a href="https://twitter.com/HelloSubhammmmm" target="_blank"><i class="fab fa-twitter"></i></a>
+				   	<a href="https://www.instagram.com/fine._apple_/" target="_blank"><i class="fab fa-instagram"></i></a>
   	 			</div>
   	 		</div>
   	 	</div>
