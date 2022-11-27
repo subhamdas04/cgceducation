@@ -8,6 +8,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./header/style.css">  
+    <link rel="stylesheet" href="./footer/style.css">
     <title>Home</title>
 </head>
 <body>
@@ -18,3 +19,6 @@ include_once('http://localhost/ghotalanews/header/header.php');
     <br>evrything is going well
 </body>
 </html>
+<?php 
+include_once('http://localhost/ghotalanews/footer/footer.php');
+ ?>

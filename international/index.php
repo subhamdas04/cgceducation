@@ -6,6 +6,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 <head>
 	<title>FAQ</title>
 	<link rel="stylesheet" href="../header/style.css">
+	<link rel="stylesheet" href="../footer/style.css">
 	<style type="text/css">
 		.QuestionsAndAnswers{
 			display: flex;
@@ -159,5 +160,5 @@ include_once('http://localhost/ghotalanews/header/header.php');
 </html>
 
 <?php 
-include_once('http://localhost/cgceducation/footer/footer.php');
+include_once('http://localhost/ghotalanews/footer/footer.php');
  ?>

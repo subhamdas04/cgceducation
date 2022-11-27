@@ -7,6 +7,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 <html>
 <head>
 	<title>Notices</title>
+	<link rel="stylesheet" href="../footer/style.css">
 	<link rel="stylesheet" href="../header/style.css">
 </head>
 <body>
@@ -15,5 +16,5 @@ include_once('http://localhost/ghotalanews/header/header.php');
 </html>
 
 <?php 
-include_once('http://localhost/cgceducation/footer/footer.php');
+include_once('http://localhost/ghotalanews/footer/footer.php');
  ?>
