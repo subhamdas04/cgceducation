@@ -237,7 +237,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 	<div class="newsbox">
 		<div class="article-info">
 			<h1 id="title">TITLE</h1>
-			<h2 id="subTitle">Sub-Title</h2>
+			<h2 id="subTitle">Sub-Title</h2><hr>
 			<h3 id="category">Category:</h3>
 			<h3 id="author">Author:</h3>
 			<h3 id="postDate">Date:</h3>
