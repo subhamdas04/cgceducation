@@ -226,7 +226,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 					p: a
 				},
 				success: function(data){
-					document.getElementById('img').src = "http://localhost/subham/website/"+data;
+					document.getElementById('img').src = "http://localhost/ghotalanews/"+data;
 				}
 			});
 		});
