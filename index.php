@@ -12,12 +12,13 @@ include_once('http://localhost/ghotalanews/header/header.php');
 		.content{
 			border: 0px solid red;
 			text-align: center;
+			font-size: 8px;
 		}
 		.row1{
 			display: grid;
 			border: 0px solid red;
 			column-gap: 10px;
-			grid-template-columns: repeat(3, 1fr);
+			grid-template-columns: repeat(5, 1fr);
 		}
 		.img img{
 			width: 100%;
@@ -25,7 +26,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 			margin-right: 10px;
 		}
 		.content .row1 .img:hover{
-			scale: 1.1;
+			scale: 0.9;
 			transition: 1s ease;
 			margin-left: 10px;
 		}
@@ -46,7 +47,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 	<script type="text/javascript">
 		function blogFun(e){
 			var a = e.id;
-			location.href = "http://localhost/subham/website/blog/?p="+a;
+			location.href = "http://localhost/ghotalanews/blog/?p="+a;
 		}
 	</script>
 

@@ -13,7 +13,7 @@
 		echo "
 			<div class='ins1' id='$articleUrl' onclick='blogFun(this)'>
 				<div class='img'>
-					<img src='$img' width='300px' height='200px'>
+					<img src='$img' width='300px' height='150px'>
 				</div>
 				<h1>$title</h1>
 			</div>";
