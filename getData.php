@@ -7,7 +7,7 @@
 		$title = $row['title'];
 		$title = base64_decode($title);
 		$img = $row['img'];
-		$img = "http://localhost/subham/website/img/" . $img;
+		$img = "http://localhost/ghotalanews/img/" . $img;
 		$articleUrl = $row['articleUrl'];
 
 		echo "
