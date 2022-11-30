@@ -28,7 +28,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 			margin-right: 10px;
 		}
 		.content .row1 .img:hover{
-			scale: 1.05;
+			scale: 1.1;
 			transition: 1s ease;
 			margin-left: 0px;
 		}
