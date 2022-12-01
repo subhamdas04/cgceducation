@@ -6,8 +6,8 @@ include_once('http://localhost/ghotalanews/header/header.php');
 <html lang="en">
 
 <head>
-    <link rel="stylesheet" href="../header/style.css">
-    <link rel="stylesheet" href="../footer/style.css">
+    <link rel="stylesheet" href="./header/style.css">
+    <link rel="stylesheet" href="./footer/style.css">
     <link rel="stylesheet" href="affiliate.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,7 +19,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
     <center>
         <h1>AFFILIATE PROGRAM</h1>
         <div class="about">
-            <img src="../img/apple.jpg" alt="ABOUT US PIC" width="500px">
+            <img src="./img/apple.jpg" alt="ABOUT US PIC" width="500px">
             <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores consectetur aliquam architecto suscipit
                 rem. Temporibus nobis delectus doloribus alias magni! Vero sequi odit veritatis consequuntur. Accusamus,
                 quisquam. Facere ab quo voluptate omnis voluptatibus dicta minus nostrum quia officia eius, odio dolores

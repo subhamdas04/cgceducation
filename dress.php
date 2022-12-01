@@ -6,20 +6,20 @@ include_once('http://localhost/ghotalanews/header/header.php');
 <html lang="en">
 
 <head>
-    <link rel="stylesheet" href="../header/style.css">
-    <link rel="stylesheet" href="../footer/style.css">
-    <link rel="stylesheet" href="about-us.css">
+    <link rel="stylesheet" href="./header/style.css">
+    <link rel="stylesheet" href="./footer/style.css">
+    <link rel="stylesheet" href="dress.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us</title>
+    <title>Dress</title>
 </head>
 
 <body>
     <center>
-        <h1>ABOUT US</h1>
+        <h1>Dress</h1>
         <div class="about">
-            <img src="../img/apple.jpg" alt="ABOUT US PIC" width="500px">
+            <img src="./img/apple.jpg" alt="ABOUT US PIC" width="500px">
             <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores consectetur aliquam architecto suscipit
                 rem. Temporibus nobis delectus doloribus alias magni! Vero sequi odit veritatis consequuntur. Accusamus,
                 quisquam. Facere ab quo voluptate omnis voluptatibus dicta minus nostrum quia officia eius, odio dolores

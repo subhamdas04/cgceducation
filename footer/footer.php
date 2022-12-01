@@ -16,28 +16,28 @@
   	 		<div class="footer-col">
   	 			<h4>company</h4>
   	 			<ul>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/about-us.php">about us</a></li>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/our-services.php">our services</a></li>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/privacy-policy.php">privacy policy</a></li>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/affiliate.php">affiliate program</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/about-us.php">about us</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/our-services.php">our services</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/privacy-policy.php">privacy policy</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/affiliate.php">affiliate program</a></li>
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">
   	 			<h4>get help</h4>
   	 			<ul>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/faq.php">FAQ</a></li>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/shipping.php">shipping</a></li>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/returns.php">returns</a></li>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/order-status.php">order status</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/faq.php">FAQ</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/shipping.php">shipping</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/returns.php">returns</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/order-status.php">order status</a></li>
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">
   	 			<h4>online shop</h4>
   	 			<ul>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/watch.php">watch</a></li>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/bag.php">bag</a></li>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/shoes.php">shoes</a></li>
-  	 				<li><a href="http://localhost/ghotalanews/footer-page/dress.php">dress</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/watch.php">watch</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/bag.php">bag</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/shoes.php">shoes</a></li>
+  	 				<li><a href="http://localhost/ghotalanews/dress.php">dress</a></li>
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">
