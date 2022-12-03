@@ -26,13 +26,13 @@
 		}
 	</script>
 	
-	<script type="text/javascript">
+	<!-- <script type="text/javascript">
 		function divcloseFun(){
 			document.getElementById("loginoverdiv").style.display="none";
 		}
 	</script>
 	
-	<script type="text/javascript">
+	 <script type="text/javascript">
 		function loginFun(){
 			var user = document.getElementById("username").value;
 			
@@ -56,7 +56,7 @@
 		function showoverdiv(){
 			document.getElementById("loginoverdiv").style.display="flex";
 		}
-	</script>
+	</script> -->
 </head>
 <body>
 	<div class="topbar">
@@ -67,9 +67,9 @@
 			<a href="https://twitter.com/HelloSubhammmmm" target="_blank"><i class="fab fa-twitter" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i></a>
 			<a href="https://www.instagram.com/fine._apple_/" target="_blank"><i class="fab fa-instagram" style="font-size: 20px; margin-left: 15px; color: white; cursor: pointer; margin-top: 5px;"></i></a>
 		</div>
-		<div class="loginclick">
+		<!-- <div class="loginclick">
 			<button class="loginbtn" onclick="showoverdiv()">Login</button>
-		</div>
+		</div> -->
 	</div>
 
 
@@ -88,7 +88,7 @@
 		<button class="btn" onclick="goOthers()">Others</button>
 	</div>
 
-	<div class="loginoverdiv" id="loginoverdiv">
+	<!-- <div class="loginoverdiv" id="loginoverdiv">
 		 <div class="loginoverdiv1">
 		 	<center>
 				<div class="overdiv11">
@@ -125,9 +125,9 @@
 				</div>
 			</center>
 		 </div>
-	</div>
+	</div> -->
 
-	 <script>
+	 <!-- <script>
         var x = document.getElementById("login");
         var y = document.getElementById("register");
         var z = document.getElementById("btn");
@@ -142,7 +142,7 @@
             y.style.left = "450px";
             z.style.left = "0";
         }
-    </script>
+    </script> -->
 
 </body>
 </html>
