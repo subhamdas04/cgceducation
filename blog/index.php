@@ -207,7 +207,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 					p: a
 				},
 				success: function(data){
-					document.getElementById('img').innerHTML = data;
+					document.getElementById('img').src = "http://localhost/ghotalanews/img/" + data;
 				}
 			});
 		});
@@ -226,7 +226,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 					p: a
 				},
 				success: function(data){
-					document.getElementById('img').src = "http://localhost/ghotalanews/"+data;
+					document.getElementById('img2').src = "http://localhost/ghotalanews/img/"+data;
 				}
 			});
 		});
@@ -246,7 +246,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 		</div>
 		<div class="main_article">
 			<div class="article_img">
-				<img src="./fifa.jpg" id="img" height="auto">
+				<img src="" id="img2" height="auto">
 				<div id="caption" style="font-size: 20px; color: blue;"></div>
 			</div>
 			<p class="written_article" id="content"></p>
