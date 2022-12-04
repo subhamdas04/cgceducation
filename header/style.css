@@ -36,7 +36,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: 50px;
+    font-size: 3.25rem;
     color: #53538C;
     margin-left: 10px;
     user-select: none;
@@ -79,14 +79,17 @@
     font-size: 1rem;
 }
 .btn:hover{
-    background: rgb(124, 236, 93);
+    background: rgb(197, 122, 18);
     text-transform: uppercase;
-    color: #000;
+    color: rgb(127, 219, 242);
     font-weight: 600;
+    border-top: 4px solid #c2c51b;
+    border-left: 4px solid #c2c51b;
+    
 }
 .topbar{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: top;
     height: 32px;
     width: 100%;
@@ -94,6 +97,7 @@
     outline: none;
     border-radius: 0px;
     margin-bottom: 5px;
+    align-items: center;
 }
 .follow{
     display: flex;
@@ -105,185 +109,12 @@
     font-size: 24px;
     color: white;
 }
-/* .loginclick{
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    width: auto;
-    position: relative;
+.topbar .search_article{
     margin-left: 90%;
-    font-size: 24px;
-    color: white;
-}
-.loginbtn{
-    width: 83px;
-    height: 100%;
-    color: #fff;
-    background: #53538C;
-    cursor: pointer;
-    border: 0;
-    border-radius: 7px;
     outline: none;
-    font-size: 20px;
+    height: 70%;
+    width: 10%;
+    border: 0px solid red;
+    margin-right: 2%;
+    background: white;
 }
-.loginbtn:hover{
-    background: red;
-    text-transform: uppercase;
-    background: rgb(124, 236, 93);
-    color: #000;
-    font-weight: 600;
-} 
-.loginoverdiv{
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    top: 0;
-    background:rgba(0, 0, 0, 0.8);
-}
-.loginoverdiv1{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 600px;
-    width: 500px;
-    border: 2px solid black;
-    border-radius: 17px;
-    background-color: white;
-}
-.overdiv11{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 500px;
-    width: 400px;
-    border: 3px solid #000;
-    border-radius: 10px;
-}
-.btn22{
-    width: 150px;
-    height: 35px;
-    font-size: 15px;
-    border-radius: 17px;
-    color: #fff;
-    background: #53538C;
-    outline: none;
-    cursor: pointer;
-    margin-top: 20px;
-}
-.btn22:hover{
-    background: rgb(124, 236, 93);
-    text-transform: uppercase;
-    border: 0px solid black;
-    color: #000;
-    font-weight: 600;
-}
-.form-box{
-    width: 380px;
-    height: 480px;
-    position: relative;
-    margin: 6% auto;
-    background: rgb(255, 255, 255);
-    padding: 5px; 
-    overflow: hidden;
-}
-.buttom-box{
-    width: 220px;
-    margin: 35px auto;
-    position: relative;
-    box-shadow: 0 0 20px 9px #ff61241f;
-    border-radius: 30px;
-}
-.btnNewLogin{
-    top: 0;
-    left: 0;
-    position: absolute;
-    width: 110px;
-    height: 100%;
-    background: #53538C;
-    border-radius: 30px;
-    transition: 0.5s;
-}
-.toggle-btn{
-    padding: 10px 30px;
-    cursor: pointer;
-    background: transparent;
-    border: 0;
-    outline: none;
-    position: relative;
-}
-.textbox11{
-    width: 100%;
-    padding: 10px 0;
-       margin: 5px 0;
-    border-left: 0;
-    border-top: 0;
-    border-right: 0;
-    border-bottom: 1px solid #999;
-    outline: none;
-    background: transparent;
-}
-.check-box{
-    margin: 30px 10px 30px 0;
-}
-.input-group{
-    top: 180px;
-    position: absolute;
-    width: 280px;
-    transition: 0.5s;
-}
-.span{
-    color: #777;
-    font-size: 12px;
-    bottom: 68px;
-    position: absolute;
-   }
-   
-#login{
-    left: 50px;
-}
-
-#register{
-    left: 50px;
-}
-.alertBox{
-    display: flex;
-    flex-direction: column;
-    position: absolute;
-    z-index: 5;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    align-items: center;
-    background-color: rgba(0, 0, 0, 0.75);
-}
-.alert1{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: top;
-    width: 400px;
-    height: 200px;
-    background: #fff;
-    border-radius: 10px;
-}
-.alertH{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    background: #53538C;
-    color: #fff;
-    width: 100%;
-    height: 40px;
-    border-radius: 10px 10px 0 0;
-    font-size: 22px;
-}
-*/
