@@ -3,6 +3,7 @@
 <head>
 <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="./phone-responsive.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
 
 	<script type="text/javascript">
@@ -38,6 +39,7 @@
 		</div>
 		<input type="text" placeholder="Search here" class="search_article">
 	</div>
+	
 	<!-- topbar ends here and logo & logo text starts from here -->
 
 	<div class="main">
