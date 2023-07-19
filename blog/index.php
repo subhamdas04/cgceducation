@@ -40,13 +40,6 @@ include_once('http://localhost/ghotalanews/header/header.php');
 			float: left;
 		}
 		.written_article{
-			/*display: flex;
-			flex-direction: column;
-			height: auto;
-			width: 100%;
-			padding-left: 5px;
-			margin-top: 10px;
-			margin-bottom: 10px;*/
 			padding: 2rem; 
 			text-align: justify;
 			font-size: 25px;
@@ -256,6 +249,7 @@ include_once('http://localhost/ghotalanews/header/header.php');
 	</div>
 </body>
 </html>
+
 <?php 
 include_once('http://localhost/ghotalanews/footer/footer.php');
  ?>
